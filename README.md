@@ -83,3 +83,5 @@ For bug reports or feature requests, please open an **[Issue](https://github.com
 ---
 
 <p align="center">Made with ❤️ for families</p>
+
+<p align="center"><strong>希望这是你手机里启动次数最少的 App。<br>We hope this is the least-opened app on your phone.</strong></p>
